@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Dispositivos Moviles USO 2020</string>
+    <string name="titulo">Encuestador</string>
+    <string name="ds">Desarrollado Por:</string>
+    <string name="Enombre">Edwin Efrain Hernandez Navarrete</string>
+    <string name="nEncuestado">Nuevo Encuestado</string>
+    <string name="lEncuestado">Lista de Encuestados</string>
+
+    <string name="enali">Encuesta Alimenticia</string>
+    <string name="nombre">Nombre :</string>
+    <string name="edad">Edad :</string>
+
+    <string name="listaAlimentos">Lista de Alimentos</string>
+    <string name="Procesar">Procesar Informacion</string>
+    <string name="Alimento">Alimento :</string>
+
+
+</resources>
