@@ -65,8 +65,7 @@ public class NuevoEncuestado extends AppCompatActivity {
             @Override
             public void onClick(View view) {
                 if(! InfoIsValid()){
-                    txbNombre.setError("Campo Requrido");
-                    txbEdad.setError("Campo Requrido");
+                    Toast.makeText(NuevoEncuestado.this,"Campos requeridos..",Toast.LENGTH_SHORT).show();
                 }else if(valoritem.length() <= 1){
                     Toast.makeText(NuevoEncuestado.this,"Campo alimento requerido",Toast.LENGTH_SHORT).show();
                 }else{
